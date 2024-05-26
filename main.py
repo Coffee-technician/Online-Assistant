@@ -24,7 +24,7 @@ async def chat_page(request: Request):
 
 
 chat_log = [{'role': 'system',
-             'content': 'You are day trader professional assistant.'
+             'content': 'You are professional high level espresso technician assistant, self educated.'
              }]
 
 
